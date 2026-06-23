@@ -1,8 +1,8 @@
 # Simple Chess
 
-Simple Java chess application for local human-vs-human play.
+Simple educational Java chess application for local human-vs-human play.
 
-The project provides a basic graphical chessboard, allows two players to play on the same machine, highlights the active piece, and validates basic piece movement rules. It does not include a chess engine and does not currently detect check or checkmate.
+The project provides a basic graphical chessboard, allows two players to play on the same machine, highlights the active piece, and validates basic piece movement rules. It was written as an educational / experimental project and does not include a chess engine or check/checkmate detection.
 
 ## Screenshots
 
@@ -20,7 +20,7 @@ The project provides a basic graphical chessboard, allows two players to play on
 
 ## Limitations
 
-This is a small educational / experimental chess project, not a complete chess engine.
+This is an educational / experimental chess project, not a complete chess engine.
 
 Currently not implemented:
 
